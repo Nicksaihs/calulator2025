@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\calulator\calulator\bin\Debug\net6.0-windows\calulator.exe
+C:\Users\User\Desktop\calulator\calulator\bin\Debug\net6.0-windows\calulator.deps.json
+C:\Users\User\Desktop\calulator\calulator\bin\Debug\net6.0-windows\calulator.runtimeconfig.json
+C:\Users\User\Desktop\calulator\calulator\bin\Debug\net6.0-windows\calulator.dll
+C:\Users\User\Desktop\calulator\calulator\bin\Debug\net6.0-windows\calulator.pdb
+C:\Users\User\Desktop\calulator\calulator\obj\Debug\net6.0-windows\calulator.Form1.resources
+C:\Users\User\Desktop\calulator\calulator\obj\Debug\net6.0-windows\calulator.csproj.GenerateResource.cache
+C:\Users\User\Desktop\calulator\calulator\obj\Debug\net6.0-windows\calulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\calulator\calulator\obj\Debug\net6.0-windows\calulator.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\calulator\calulator\obj\Debug\net6.0-windows\calulator.AssemblyInfo.cs
+C:\Users\User\Desktop\calulator\calulator\obj\Debug\net6.0-windows\calulator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\calulator\calulator\obj\Debug\net6.0-windows\calulator.dll
+C:\Users\User\Desktop\calulator\calulator\obj\Debug\net6.0-windows\refint\calulator.dll
+C:\Users\User\Desktop\calulator\calulator\obj\Debug\net6.0-windows\calulator.pdb
+C:\Users\User\Desktop\calulator\calulator\obj\Debug\net6.0-windows\calulator.genruntimeconfig.cache
+C:\Users\User\Desktop\calulator\calulator\obj\Debug\net6.0-windows\ref\calulator.dll
